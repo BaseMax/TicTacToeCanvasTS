@@ -1,6 +1,6 @@
-# TypeScript Game Canvas
+# TicTacToe Game In TypeScript With Canvas
 
-Live coding project in TypeScript Global Summit 2023 for a talk about designing the Tic-tac-toe game.
+Live coding project in **TypeScript Global Summit 2023** for a talk about designing the **Tic-Tac-Toe** game.
 
 ## Designing an Entertaining Game with Typescript: A Hands-On Approach
 
