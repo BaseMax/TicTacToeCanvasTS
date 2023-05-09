@@ -7,10 +7,9 @@ Live coding project in **TypeScript Global Summit 2023** for a talk about design
 Have you ever wanted to build your own game but didn't know where to start? Join us for a live-coding session where we will explore the fascinating world of game development with Typescript. In this 30-minute session, we'll cover the essential steps needed to create a simple 2D game, including:
 
 - Setting up a Typescript project with Canvas
-- Drawing game graphics and animations
-- Adding keyboard controls to the player sprite
-- Implementing game mechanics, such as collision detection and scoring
-- Building game levels and improving gameplay with sound effects.
+- Drawing game graphics
+- Adding mouse controls to the player sprite
+- Implementing game mechanics, such as collision detection
 
 You'll learn how to use HTML5 Canvas to create game graphics, as well as how to use Typescript's strong typing features to build more robust and maintainable game code. We'll also cover the basics of game mechanics, including collision detection and scoring, so you have a foundation to build on.
 
